@@ -1,2 +1,3 @@
-l1 = map(int, input().split())
-print(max(l1))
+import streamlit as st
+
+st.write('Hello world!')
